@@ -3,7 +3,7 @@
 return [
     'packages' => [
         'filp/whoops'                                    => '^2.1.12',
-        'jsoumelidis/zend-sf-di-config'                  => '^0.1',
+        'jsoumelidis/zend-sf-di-config'                  => '^0.2',
         'northwoods/container'                           => '^1.2',
         'zendframework/zend-auradi-config'               => '^0.2',
         'zendframework/zend-expressive-aurarouter'       => '^2.0',
