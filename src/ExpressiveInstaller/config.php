@@ -5,7 +5,7 @@ declare(strict_types=1);
 return [
     'packages' => [
         'filp/whoops'                                    => '^2.1.12',
-        'jsoumelidis/zend-sf-di-config'                  => '^0.1',
+        'jsoumelidis/zend-sf-di-config'                  => '^0.2',
         'northwoods/container'                           => '^1.2',
         'zendframework/zend-auradi-config'               => '^1.0.0-dev',
         'zendframework/zend-expressive-aurarouter'       => '^3.0.0-dev',
